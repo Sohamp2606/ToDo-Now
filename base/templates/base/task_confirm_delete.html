@@ -1,0 +1,20 @@
+
+<!-- delete confirmation page -->
+
+{% extends 'base/main.html' %}
+
+{% block content %}
+
+<div class="header-bar">
+    <a href="{% url 'tasks' %}">&#8592;BACK</a>
+</div>
+
+<div class="card-body"> 
+    <form method="POST">
+        {% csrf_token %}
+       <p> Are you Sure you Want To Delete Task ? "{{task}}" </P>
+       <input class="button" type="Submit" value="Delete" />
+    </form>
+</div>
+
+{% endblock content %}
