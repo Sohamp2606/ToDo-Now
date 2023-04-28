@@ -1,10 +1,32 @@
 # Django-To-Do-list-with-user-authentication
 
-<br />
-To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.
+## Introduction
+<p>
+  To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality
+</p>
+
+## Objective
+<p>
+  The main objective of this project is to develop a web application that can mantain a task list of user.  
+</p>
+
+## Technology Used:
+- #### Languages:
+  - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+- #### FrameWork:
+  - ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+- #### Database:
+  - ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- #### IDE:
+  - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 <br /><br />
 
-**New User Registration and Login**
+#### New User Registration and Login
 
 <br />
 
@@ -17,7 +39,7 @@ To Do list app with User Registration, Login, Search and full Create Read Update
 
 <br /><br />
 
-**Create Task Items**
+#### Create Task Items
 
 <br />
 
@@ -29,7 +51,7 @@ To Do list app with User Registration, Login, Search and full Create Read Update
 
 <br /><br />
 
-**Complete and Incomplete Tasks**
+#### Complete and Incomplete Tasks
 
 <br />
 
@@ -37,7 +59,7 @@ To Do list app with User Registration, Login, Search and full Create Read Update
 
 <br /><br />
 
-**Delete Task**
+#### Delete Task
 
 <br />
 
