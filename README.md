@@ -1,24 +1,31 @@
-# Django-To-Do-list-with-user-authentication
+# ToDo Now with User Authentication
 
+![Red Black Yellow Modern Daily Vlog Youtube Thumbnail](https://github.com/Sohamp2606/ToDo-Now/assets/106002920/21b34ce0-f18d-49ab-b5c8-863bc04d1c3c)
 
-![20230625_155514_0000](https://github.com/Sohamp2606/Django-To-Do-list-with-user-authentication/assets/106002920/09ba8128-b8fa-4d76-850b-e2f30c93b81c)
 
 ## Introduction
 <p>
-  To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality
+ Welcome to My <b> Full Stack </b>ToDo List Web Application, creativly designed and developed using the <b>Django framework </b>and fortified by the reliability of </b>SQLite3 database</b>. With an unwavering commitment to user security, our application features comprehensive <b>user authentication</b>, ensuring that your data remains private and accessible only to you.
 </p>
 
-## Objective
+## &#x2022; Power of Full Stack :
 <p>
-  The main objective of this project is to develop a web application that can mantain a task list of user.  
+  My application leverages the power of full stack development. From the <b>dynamic frontend to the secure backend</b>, every component is crafted to seamlessly interact, providing you with real-time updates and interactions. 
 </p>
 
+## &#x2022; User Authentication :
+<p>Your privacy is my priority. That's why my application implements user authentication mechanisms. Your tasks and data are only accessible to you, giving you the confidence to use my application to its fullest potential.</p>
+
+## &#x2022; Effortless Task Control :
+<p>Creating, reading, updating, and deleting tasks is a breeze with application. User-friendly interface allows you to seamlessly manage your tasks, helping you stay on top of your commitments and goals.</p>
 ## Technology Used:
 - #### Languages:
+
   - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
   - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   
 - #### FrameWork:
+  
   - ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 - #### Database:
