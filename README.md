@@ -8,6 +8,11 @@
  Welcome to My <b> Full Stack </b>ToDo List Web Application, creativly designed and developed using the <b>Django framework </b>and fortified by the reliability of </b>SQLite3 database</b>. With an unwavering commitment to user security, our application features comprehensive <b>user authentication</b>, ensuring that your data remains private and accessible only to you.
 </p>
 
+## Go Through Video
+
+https://github.com/Sohamp2606/ToDo-Now/assets/106002920/48a51a33-a841-4118-8dcd-e6ab88e9198a
+
+
 ## &#x2022; Power of Full Stack :
 <p>
   My application leverages the power of full stack development. From the <b>dynamic frontend to the secure backend</b>, every component is crafted to seamlessly interact, providing you with real-time updates and interactions. 
