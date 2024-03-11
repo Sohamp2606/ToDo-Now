@@ -23,11 +23,15 @@ https://github.com/Sohamp2606/ToDo-Now/assets/106002920/48a51a33-a841-4118-8dcd-
 
 ## &#x2022; Effortless Task Control :
 <p>Creating, reading, updating, and deleting tasks is a breeze with application. User-friendly interface allows you to seamlessly manage your tasks, helping you stay on top of your commitments and goals.</p>
+
 ## Technology Used:
+
 - #### Languages:
 
   - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
   - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  - <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   
 - #### FrameWork:
   
